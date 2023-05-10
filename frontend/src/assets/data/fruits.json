@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Cam",
+    "city": "HiepDuc",
+    "address": "QuangNam",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+    
+    "photo": "/fruit-images/fruit-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Xoài",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Ổi",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bưởi",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nho",
+    "city": "QueSon",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Vải",
+    "city": "QueSon",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dừa",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Good Ổi",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "ThanhLong",
+    "city": "QueTho",
+    "address": "QuangNam",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Nhãn",
+    "city": "QueSon",
+    "address": "QuangNam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/fruit-images/fruit-img09.jpg",
+    "featured": false
+  }
+]

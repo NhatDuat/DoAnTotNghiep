@@ -1,0 +1,72 @@
+.pagination span{
+    width: 2rem;
+    height: 2rem;
+    padding: 5px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--secondary-color);
+    color: var( --heading-color);
+    font-size: 1.1rem;
+    cursor: pointer;
+    font-weight: 700;
+
+
+}
+.active__page {
+    background: var(--secondary-color);
+    color: #fff !important;
+}
+.phan2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.phan2 .hinhanh{
+    position: relative;
+    max-width: 300px;
+    height: 215px;
+    background: #fff;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 202px rgba(0,0,0,0.5);
+    transition: 0.3s ease-in-out;
+}
+.phan2 .hinhanh:hover{
+    height: 420px;
+}
+.phan2 .hinhanh .img3Anh{
+    position: relative;
+    width: 260px;
+    height: 260px;
+    top:-60px;
+    left:20px;
+    z-index: 0;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+.phan2 .img3Anh .img{
+    max-width: 100%;
+    border-radius: 4px;
+}
+.phan2 .hinhanh .thongtin {
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    text-align: center;
+    color: #111;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+}
+.phan2 .hinhanh:hover .thongtin {
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0.3s;
+}
